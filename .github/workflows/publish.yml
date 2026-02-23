@@ -16,5 +16,8 @@ jobs:
           files: |
             examples/paper.tex
             examples/slides.tex
+            examples/k_nearest_neighbours.tex
           handouts: |
             examples/slides.tex
+            examples/k_nearest_neighbours.tex
+
